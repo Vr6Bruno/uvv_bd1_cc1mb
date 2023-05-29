@@ -148,7 +148,7 @@
    </folder>
   </table>
   <table id="TAB40" populated="true" UUID="a66d228a-4882-454a-8303-6bad38bc5e0f" name="produtos " objectType="TABLE" physicalName="produtos" >
-   <remarks>Tabela refrente aos produtos das lojas UVV.</remarks>
+   <remarks>Tabela referente aos produtos das lojas UVV.</remarks>
    <folder id="FOLTAB401" populated="true" name="Columns" physicalName="Columns" type="1">
     <column id="COL41" populated="true" UUID="30c70933-51dd-4626-84a7-64eacd457334" autoIncrement="false" autoIncrementSequenceName="produtos_produto_id_seq" defaultValue="" name="produto_id" nullable="0" physicalName="produto_id" precision="38" primaryKeySeq="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="2" userDefinedTypeUUID="115245ce-612c-4d6a-b559-6dd903dd959a" >
      <remarks>Número de identificação de cada produto das lojas UVV.</remarks>
