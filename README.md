@@ -47,11 +47,7 @@ Envolvidos no **trabalho**:
 
 ## PSET-Diagrama
 
-- O diagrama é basicamente a estrutura do meu banco de dados, ele mostra toda as tabelas criadas e os relacionamentos entre elas,  além de informar onde cada dado está em cada tabela:
-
-![](https://github.com/Vr6Bruno/cc1mb_202306747_postgresql.sql/blob/main/Diagrama.png?raw=true)
-
-
+- O diagrama é basicamente a estrutura do meu banco de dados, ele mostra toda as tabelas criadas e os relacionamentos entre elas,  além de informar onde cada dado está em cada tabela.
 
 ##  PSET-Script Global
 
