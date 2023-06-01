@@ -30,15 +30,15 @@ Envolvidos no **trabalho**:
 
 ## Subdiretório 1-Diagrama.architect
 
-- Segundo arquivo do meu **PSET** salvo no repositório foi o **Diagrama.architect** (Códigos que geram o diagrama). [Diagrama_architect](https://github.com/Vr6Bruno/uvv_bd1_cc1mb/blob/main/PSET1/cc1mb_202306747.postgresql.architect).
+- Primeiro arquivo do meu **PSET** salvo no repositório foi o **Diagrama.architect** (Códigos que geram o diagrama). [Diagrama_architect](https://github.com/Vr6Bruno/uvv_bd1_cc1mb/blob/main/PSET1/cc1mb_202306747.postgresql.architect).
 
 ## Subdiretório 2-cc1mb_202306747_postgresql.pdf
 
-- Terceiro arquivo do meu **PSET** salvo no repositório foi um PDF do diagrama do meu banco de dados. [Diagrama_PDF](https://github.com/Vr6Bruno/uvv_bd1_cc1mb/blob/main/PSET1/cc1mb_202306747_postgresql.pdf).
+- Segundo arquivo do meu **PSET** salvo no repositório foi um PDF do diagrama do meu banco de dados. [Diagrama_PDF](https://github.com/Vr6Bruno/uvv_bd1_cc1mb/blob/main/PSET1/cc1mb_202306747_postgresql.pdf).
 
 ## Subdiretório 3-cc1mb_202306747_postgresql.sql
 
-- Quarto arquivo do meu **PSET** salvo no repositório foi o **Script Global** , ou seja, os comandos que criam o banco de dados. [Script Global](https://github.com/Vr6Bruno/uvv_bd1_cc1mb/blob/main/PSET1/cc1mb_202306747_postgresql.sql).
+- Terceiro arquivo do meu **PSET** salvo no repositório foi o **Script Global** , ou seja, os comandos que criam o banco de dados. [Script Global](https://github.com/Vr6Bruno/uvv_bd1_cc1mb/blob/main/PSET1/cc1mb_202306747_postgresql.sql).
 
 ## PSET-Diagrama
 
