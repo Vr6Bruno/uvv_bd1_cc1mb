@@ -26,7 +26,7 @@ Envolvidos no **trabalho**:
 
 ## Diretório
 
-- O local onde estão todos os subdiretórios do meu trabalho. O nome desse diretório é **PSET1**
+- O local onde estão todos os subdiretórios do meu trabalho. O nome desse diretório é **PSET1**.
 
 ## Subdiretório 1-Diagrama.architect
 
