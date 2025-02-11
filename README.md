@@ -22,7 +22,7 @@ Envolvidos no **trabalho**:
 
 ## Repositório
 
-- O Repositório é o local que se encontra todos os projetos salvos no **Github**.  O meu **PSET** resolvido se encontra salvo no repositório nomeado de "uvv_bd1_cc1mb".
+- O Repositório é o local que se encontra todos os projetos salvos no **Github**.  O meu **PSET** resolvido se encontra salvo no repositório nomeado de "PSET".
 
 ## Diretório
 
